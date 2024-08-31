@@ -14,7 +14,7 @@ A fun and interactive Whack-a-Mole game built with HTML, CSS, and JavaScript. Th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/whack-a-mole.git
+   git clone https://github.com/Clancy76/Whack-a-Mole.git
 
 ## Usage
 1. Select a difficulty level from the dropdown menu.
