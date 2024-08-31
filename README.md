@@ -16,7 +16,7 @@ A fun and interactive Whack-a-Mole game built with HTML, CSS, and JavaScript. Th
    ```bash
    git clone https://github.com/yourusername/whack-a-mole.git
 
-Usage
+## Usage
 1. Select a difficulty level from the dropdown menu.
 2. Click the "Start Game" button to begin.
 3. Click on moles as they appear to increase your score.
